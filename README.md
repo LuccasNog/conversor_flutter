@@ -6,7 +6,7 @@
 
 Essa é uma aplicação simples onde você pode converter BRL, USD e EUR.
 
-- Ferramentas 
+
 
 
 
