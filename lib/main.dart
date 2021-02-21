@@ -9,7 +9,7 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 //import 'package:async/async.dart';
 
-const request = "https://api.hgbrasil.com/finance?key=8f7b493a";
+const request = "sua chave API";
 
 void main() async {
   runApp(MaterialApp(
