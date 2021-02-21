@@ -2,7 +2,7 @@
 
 # Conversor de Moedas em Flutter.
 
-## Getting Started
+## Como usar
 
 This project is a starting point for a Flutter application.
 
